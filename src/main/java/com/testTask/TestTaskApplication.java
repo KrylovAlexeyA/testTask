@@ -18,6 +18,7 @@ public class TestTaskApplication {
 		String csvFilename = "/Users/a17065355/Desktop/source.csv";
 		CSVParser csvParser = new CSVParser();
 		List list = csvParser.parse(csvFilename);
+
 	}
 
 }
